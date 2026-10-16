@@ -236,3 +236,6 @@ kaggle.json
 # notebooks & OS junk
 .ipynb_checkpoints/
 .DS_Store
+
+# git worktrees of submodules
+huggingface/worktrees/

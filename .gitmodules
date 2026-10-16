@@ -1,0 +1,3 @@
+[submodule "huggingface/cat-or-dog"]
+	path = huggingface/cat-or-dog
+	url = git@hf.co:spaces/karooolis/cat-or-dog

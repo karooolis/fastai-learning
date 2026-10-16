@@ -1,0 +1,3 @@
+[submodule "huggingface/gradio-test"]
+	path = huggingface/gradio-test
+	url = git@hf.co:spaces/karooolis/gradio-test
